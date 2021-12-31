@@ -1,0 +1,5 @@
+Ich bin ein Textfile
+Ein sch"ones Textfile
+
+ noch eine Zeile
+ 
